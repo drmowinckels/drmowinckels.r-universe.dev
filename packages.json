@@ -1,0 +1,83 @@
+[
+    {
+        "package": "ggseg",
+        "url": "https://github.com/lcbc-uio/ggseg",
+        "branch": "master"
+    },
+    {
+        "package": "ggseg3d",
+        "url": "https://github.com/lcbc-uio/ggseg3d",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegExtra",
+        "url": "https://github.com/lcbc-uio/ggsegExtra",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegYeo2011",
+        "url": "https://github.com/lcbc-uio/ggsegYeo2011",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegSchaefer",
+        "url": "https://github.com/lcbc-uio/ggsegSchaefer",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegGlasser",
+        "url": "https://github.com/lcbc-uio/ggsegGlasser",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegDesterieux",
+        "url": "https://github.com/lcbc-uio/ggsegDesterieux",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegDefaultExtra",
+        "url": "https://github.com/lcbc-uio/ggsegDefaultExtra",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegChen",
+        "url": "https://github.com/lcbc-uio/ggsegChen",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegTracula",
+        "url": "https://github.com/lcbc-uio/ggsegTracula",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegDKT",
+        "url": "https://github.com/lcbc-uio/ggsegDKT",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegJHU",
+        "url": "https://github.com/lcbc-uio/ggsegJHU",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegICBM",
+        "url": "https://github.com/lcbc-uio/ggsegICBM",
+        "branch": "master"
+    },
+    {
+        "package": "ggsegHO",
+        "url": "https://github.com/lcbc-uio/ggsegHO",
+        "branch": "master"
+    },
+    {
+        "package": "uiothemes",
+        "url": "https://github.com/Athanasiamo/uiothemes",
+        "branch": "main"
+    },
+    {
+        "package": "colorhex",
+        "url": "https://github.com/Athanasiamo/colorhex",
+        "branch": "main"
+    }
+]
+
