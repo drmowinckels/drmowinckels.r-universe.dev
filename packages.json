@@ -12,52 +12,8 @@
         "url": "https://github.com/ggseg/ggsegExtra"
     },
     {
-        "package": "ggsegYeo2011",
-        "url": "https://github.com/ggseg/ggsegYeo2011"
-    },
-    {
-        "package": "ggsegSchaefer",
-        "url": "https://github.com/ggseg/ggsegSchaefer"
-    },
-    {
-        "package": "ggsegGlasser",
-        "url": "https://github.com/ggseg/ggsegGlasser"
-    },
-    {
-        "package": "ggsegDesterieux",
-        "url": "https://github.com/ggseg/ggsegDesterieux"
-    },
-    {
-        "package": "ggsegDefaultExtra",
-        "url": "https://github.com/ggseg/ggsegDefaultExtra"
-    },
-    {
-        "package": "ggsegChen",
-        "url": "https://github.com/ggseg/ggsegChen"
-    },
-    {
-        "package": "ggsegTracula",
-        "url": "https://github.com/ggseg/ggsegTracula"
-    },
-    {
-        "package": "ggsegDKT",
-        "url": "https://github.com/ggseg/ggsegDKT"
-    },
-    {
-        "package": "ggsegJHU",
-        "url": "https://github.com/ggseg/ggsegJHU"
-    },
-    {
-        "package": "ggsegICBM",
-        "url": "https://github.com/ggseg/ggsegICBM"
-    },
-    {
-        "package": "ggsegHO",
-        "url": "https://github.com/ggseg/ggsegHO"
-    },
-    {
         "package": "uiothemes",
-        "url": "https://github.com/Athanasiamo/uiothemes"
+        "url": "https://github.com/drmowinckels/uiothemes"
     },
     {
         "package": "nettskjemar",
@@ -65,7 +21,11 @@
     },
     {
         "package": "colorhex",
-        "url": "https://github.com/Athanasiamo/colorhex"
+        "url": "https://github.com/drmowinckels/colorhex"
+    },
+    {
+        "package": "tidyquintro",
+        "url": "https://github.com/drmowinckels/tidyquintro"
     }
 ]
 
