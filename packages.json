@@ -4,10 +4,6 @@
         "url": "https://github.com/drmowinckels/uiothemes"
     },
     {
-        "package": "nettskjemar",
-        "url": "https://github.com/LCBC-UiO/nettskjemar/"
-    },
-    {
         "package": "colorhex",
         "url": "https://github.com/drmowinckels/colorhex"
     },
